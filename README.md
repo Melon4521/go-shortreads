@@ -85,3 +85,11 @@
 - [Файлы конфигурации, работа с json и yaml, .env](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20json%20%D0%B8%20yaml%2C%20.env.md)
 
 [Объединенный](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/%D0%9D%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%2010.%20%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20json%20%D0%B8%20yaml.md), [Практика](https://github.com/Melon4521/go-notes/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20json%20%D0%B8%20yaml.md)
+
+#### Неделя 11: HTTP протокол и работа с ним в REST-архитектуре в Golang
+
+- [HTTP протокол](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/HTTP%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB.md)
+- [REST архитектура](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/REST%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.md)
+- [HTTP-серверы в Go](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/HTTP-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%8B%20%D0%B2%20Go.md)
+
+[Объединенный](https://github.com/Melon4521/go-notes/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B/%D0%9D%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%2011.%20HTTP%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BD%D0%B8%D0%BC%20%D0%B2%20REST-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B5%20%D0%B2%20Golang.md), [Практика](https://github.com/Melon4521/go-notes/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/HTTP%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BD%D0%B8%D0%BC%20%D0%B2%20REST-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B5%20%D0%B2%20Golang.md)
